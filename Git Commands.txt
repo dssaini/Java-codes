@@ -1,0 +1,16 @@
+Making the repo offline Or cloning 
+    -> git init 
+    -> Git clone <Clone URL>
+For Staging & Unstaging 
+    -> git add <File>  
+    -> git restore --staged <File>
+    -> git rm --cached <File>
+For Commit & UnCommit
+    -> git commit -m "CommitMessage"
+    -> git reset --soft HEAD~1    it undo the commit changes are still in Staging area.
+    -> git reset --hard HEAD~1    it remove from staging and working directory.
+For Push code to remote
+
+    
+
+
