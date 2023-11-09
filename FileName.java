@@ -10,14 +10,12 @@
  * classes.
  */
 public class FileName {
-
     public static void main(String[] args) {
         System.out.println("I am the main Method in FileName");
     }
 }
 
 class class1 {
-
     public static void main(String[] args) {
         System.out.println("I am the main Method in class 1");
     }

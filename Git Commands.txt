@@ -10,7 +10,8 @@ For Commit & UnCommit
     -> git reset --soft HEAD~1    it undo the commit changes are still in Staging area.
     -> git reset --hard HEAD~1    it remove from staging and working directory.
 For Push code to remote
-
+    -> git Push (If you have clone the repository)
+    -> other option is creating a local repo and then adding thee remote. we can have multiple remotes. 
     
 
 

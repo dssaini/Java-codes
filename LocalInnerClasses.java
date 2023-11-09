@@ -1,6 +1,6 @@
 /* 
 Local Inner Class: It is a class that is defined inside a method or a block of code. 
-It has access to the final variables of the method or block in which it is defined. (Jdk_1.7 )
+It has access to the final variables of the method or block in which it is defined. (Jdk_7 )
 
 how to access object of  that class.  inside that method  innerClass obj = new innerClass();
 */ 
@@ -28,7 +28,7 @@ class Outer {
 				// called
 				System.out.println("inside innerMethod");
 				System.out.println("x="+x);
-				System.out.println("x="+);
+				System.out.println("x="+x);
 				System.out.println("y="+y);
 			}
 		}
